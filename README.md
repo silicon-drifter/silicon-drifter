@@ -33,8 +33,8 @@
 
 ### 📫 Let's Connect
 
-*   **Email:** [Your Stealth Email Here]
-*   **Portfolio:** [Your Portfolio Website URL]
+*   **Email:** 
+*   **Portfolio:** 
 
 ---
 
